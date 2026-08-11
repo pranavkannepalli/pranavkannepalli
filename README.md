@@ -15,10 +15,8 @@ Building **[Perceo](https://github.com/perceo-ai)** — infrastructure for compu
 ### For fun
 
 - 🛠️ A portable [cyberdeck](https://github.com/pranavkannepalli/cyberdeck) build, plus ZMK configs for my [Forerunner](https://github.com/pranavkannepalli/forerunner-zmk-config) and [Corne](https://github.com/pranavkannepalli/corne-zmk-config) keyboards.
-- 🎴 [mentalism-card-tricks](https://github.com/pranavkannepalli/mentalism-card-tricks) — a practice tracker for card tricks and mentalism routines.
-- 🎛️ [smart-dial](https://github.com/pranavkannepalli/smart-dial) — a physical productivity dial (Swift), and a [smart-garden](https://github.com/pranavkannepalli/smart-garden) that keeps my plants alive.
+- 🎛️ [smart-dial](https://github.com/pranavkannepalli/smart-dial) — a physical productivity dial + companion app for focusing
 - 📈 [trading-bot](https://github.com/pranavkannepalli/trading-bot) — a small, inspectable trading core with regime detection and options greeks.
-- 🪵 [wood-organizer](https://github.com/pranavkannepalli/wood-organizer) — a modular desk organizer I'm cutting from wood, planned in code first.
 
 ### Recently
 

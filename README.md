@@ -11,6 +11,7 @@ My complete local agentic development suite:
 - Site: [perceo.ai](https://perceo.ai)
 - Docs: [docs.perceo.ai](https://docs.perceo.ai)
 
+Repositories:
 - 🛰️ **[Archfleet](https://github.com/perceo-ai/archfleet)** — local-first fleet manager for computer-use agents. Describe a task in plain language, run it on an isolated desktop VM driven by an autonomous agent (Agent S), watch it, and take over via XRDP when it stalls. libvirt VMs with warm snapshots for ~1–3s resets, runtime 2FA, encrypted secrets, cron/webhook triggers.
 - 🤖 **[Archductor](https://github.com/perceo-ai/conductor-arch)** — desktop control plane for running coding agents across isolated git worktrees. Spin up a workspace, point Codex or Claude Code at it, review the diff, ship the PR, next task. Rust CLI + daemon behind an Electron UI.
 - 🧠 **[Archivum](https://github.com/perceo-ai/archivum)** — self-hosted, Obsidian-style second brain that exposes your notes to agents over MCP. Files on disk, semantic search, backlinks — a knowledge base for agents that stays yours, not someone else's cloud.

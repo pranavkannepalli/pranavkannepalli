@@ -14,9 +14,28 @@ Building **[Perceo](https://github.com/perceo-ai)** — infrastructure for compu
 
 ### For fun
 
-- 🛠️ A portable [cyberdeck](https://github.com/pranavkannepalli/cyberdeck) build, plus ZMK configs for my [Forerunner](https://github.com/pranavkannepalli/forerunner-zmk-config) and [Corne](https://github.com/pranavkannepalli/corne-zmk-config) keyboards.
-- 🎛️ [smart-dial](https://github.com/pranavkannepalli/smart-dial) — a physical productivity dial + companion app for focusing
+- ⌨️ ZMK configs for my split keyboards — [Forerunner](https://github.com/pranavkannepalli/forerunner-zmk-config) and [Corne](https://github.com/pranavkannepalli/corne-zmk-config).
 - 📈 [trading-bot](https://github.com/pranavkannepalli/trading-bot) — a small, inspectable trading core with regime detection and options greeks.
+
+### Before the vibe-coding era
+
+Older builds, back when every line was hand-written. Kept public on purpose.
+
+<details>
+<summary>The archive</summary>
+
+- 📱 [unbound](https://github.com/pranavkannepalli/unbound) — Flutter app for students to showcase academic achievements (MVVM).
+- 🌐 [stree-shakti-prabodhini](https://github.com/pranavkannepalli/stree-shakti-prabodhini) — a website built for a community nonprofit.
+- 🤖 [DiscordBot](https://github.com/pranavkannepalli/DiscordBot) — a Discord bot.
+- 🧮 [ViT-MNIST-CIFAR](https://github.com/pranavkannepalli/ViT-MNIST-CIFAR) — a Vision Transformer trained on MNIST and CIFAR.
+- 📊 [RAG_Stock_Sentiment](https://github.com/pranavkannepalli/RAG_Stock_Sentiment) · [RAGs](https://github.com/pranavkannepalli/RAGs) · [SentimentAnalysis](https://github.com/pranavkannepalli/SentimentAnalysis) — early RAG and NLP experiments.
+- 🔡 [kitts-llm](https://github.com/pranavkannepalli/kitts-llm) — training a small language model from scratch.
+- 👁️ [facerecog](https://github.com/pranavkannepalli/facerecog) — a browser face-recognition experiment.
+- ✅ [to_do_firebase](https://github.com/pranavkannepalli/to_do_firebase) — an early Firebase to-do app.
+- 🐹 [self-learning-go](https://github.com/pranavkannepalli/self-learning-go) — learning Go, out loud.
+- 🧱 [ScienceProject](https://github.com/pranavkannepalli/ScienceProject) · [Rent_Return_App](https://github.com/pranavkannepalli/Rent_Return_App) — the earliest ones (2021, plain HTML).
+
+</details>
 
 ### Recently
 

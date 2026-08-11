@@ -22,9 +22,6 @@ Building **[Perceo](https://github.com/perceo-ai)** — infrastructure for compu
 
 Older builds, back when every line was hand-written. Kept public on purpose.
 
-<details>
-<summary>The archive</summary>
-
 - 📱 [unbound](https://github.com/pranavkannepalli/unbound) — Flutter app for students to showcase academic achievements (MVVM).
 - 🌐 [stree-shakti-prabodhini](https://github.com/pranavkannepalli/stree-shakti-prabodhini) — a website built for a community nonprofit.
 - 🤖 [DiscordBot](https://github.com/pranavkannepalli/DiscordBot) — a Discord bot.
@@ -35,8 +32,6 @@ Older builds, back when every line was hand-written. Kept public on purpose.
 - ✅ [to_do_firebase](https://github.com/pranavkannepalli/to_do_firebase) — an early Firebase to-do app.
 - 🐹 [self-learning-go](https://github.com/pranavkannepalli/self-learning-go) — learning Go, out loud.
 - 🧱 [ScienceProject](https://github.com/pranavkannepalli/ScienceProject) · [Rent_Return_App](https://github.com/pranavkannepalli/Rent_Return_App) — the earliest ones (2021, plain HTML).
-
-</details>
 
 ### Recently
 

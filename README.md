@@ -14,6 +14,7 @@ Building **[Perceo](https://github.com/perceo-ai)** — infrastructure for compu
 
 ### For fun
 
+- 🍓 [H.E.N.R.Y.](https://github.com/pranavkannepalli/H.E.N.R.Y.) — an always-on Raspberry Pi voice desk assistant. Talk to it all day; it keeps a graph-based memory of your habits and context, runs your timers/todos/calendar, and has a personality of its own.
 - ⌨️ ZMK configs for my split keyboards — [Forerunner](https://github.com/pranavkannepalli/forerunner-zmk-config) and [Corne](https://github.com/pranavkannepalli/corne-zmk-config).
 - 📈 [trading-bot](https://github.com/pranavkannepalli/trading-bot) — a small, inspectable trading core with regime detection and options greeks.
 

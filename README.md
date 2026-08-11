@@ -24,7 +24,7 @@ Older builds, back when every line was hand-written. Kept public on purpose.
 
 - 🥇 [space-oasis](https://github.com/Achintya72/space-oasis) — **1st place, Webmaster @ TSA Nationals.** ([live](https://space-oasis.vercel.app))
 - 🥉 [unbound](https://github.com/pranavkannepalli/unbound) — **3rd place, Software Development @ TSA Nationals.** Flutter app for students to showcase academic achievements (MVVM).
-- 🏅 [loop](https://github.com/pranavkannepalli/loop) — **9th, Webmaster @ TSA Nationals.**
+- 🏅 [loop](https://github.com/pranavkannepalli/loop) — **9th, Webmaster @ TSA Nationals.** ([live](https://loop-sustainable.vercel.app))
 - 🌐 [stree-shakti-prabodhini](https://github.com/pranavkannepalli/stree-shakti-prabodhini) — a website built for a community nonprofit.
 - 🤖 [DiscordBot](https://github.com/pranavkannepalli/DiscordBot) — a Discord bot.
 - 🧮 [ViT-MNIST-CIFAR](https://github.com/pranavkannepalli/ViT-MNIST-CIFAR) — a Vision Transformer trained on MNIST and CIFAR.

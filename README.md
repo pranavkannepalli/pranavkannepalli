@@ -2,7 +2,7 @@
 
 Building **[Perceo](https://github.com/perceo-ai)** — infrastructure for computer-use agents. Agents that operate real software on real desktops: run tasks on isolated VMs, drive coding agents across git worktrees, and hand back to a human the moment they get stuck.
 
-[madebypranav.dev](https://madebypranav.dev) · [@kannepra](https://x.com/kannepra) · [LinkedIn](https://linkedin.com/in/pranav-kannepalli) · [pranav.kannepalli@gmail.com](mailto:pranav.kannepalli@gmail.com)
+[Linktree](https://linktr.ee/pranav.kannepalli) · [madebypranav.dev](https://madebypranav.dev) · [@kannepra](https://x.com/kannepra) · [LinkedIn](https://linkedin.com/in/pranav-kannepalli) · [pranav.kannepalli@gmail.com](mailto:pranav.kannepalli@gmail.com)
 
 ---
 

@@ -42,11 +42,11 @@ Older builds, back when every line was hand-written. Kept public on purpose.
 ### Recently
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#52](https://github.com/perceo-ai/archivum/pull/52) in [perceo-ai/archivum](https://github.com/perceo-ai/archivum)
-2. 💪 Opened PR [#94](https://github.com/perceo-ai/conductor-arch/pull/94) in [perceo-ai/conductor-arch](https://github.com/perceo-ai/conductor-arch)
-3. 💪 Opened PR [#6](https://github.com/perceo-ai/archfleet/pull/6) in [perceo-ai/archfleet](https://github.com/perceo-ai/archfleet)
-4. 🎉 Merged PR [#51](https://github.com/perceo-ai/archivum/pull/51) in [perceo-ai/archivum](https://github.com/perceo-ai/archivum)
-5. 🎉 Merged PR [#5](https://github.com/perceo-ai/archfleet/pull/5) in [perceo-ai/archfleet](https://github.com/perceo-ai/archfleet)
+1. 🎉 Merged PR [#94](https://github.com/perceo-ai/conductor-arch/pull/94) in [perceo-ai/conductor-arch](https://github.com/perceo-ai/conductor-arch)
+2. 🎉 Merged PR [#52](https://github.com/perceo-ai/archivum/pull/52) in [perceo-ai/archivum](https://github.com/perceo-ai/archivum)
+3. 🎉 Merged PR [#6](https://github.com/perceo-ai/archfleet/pull/6) in [perceo-ai/archfleet](https://github.com/perceo-ai/archfleet)
+4. 💪 Opened PR [#52](https://github.com/perceo-ai/archivum/pull/52) in [perceo-ai/archivum](https://github.com/perceo-ai/archivum)
+5. 💪 Opened PR [#94](https://github.com/perceo-ai/conductor-arch/pull/94) in [perceo-ai/conductor-arch](https://github.com/perceo-ai/conductor-arch)
 <!--END_SECTION:activity-->
 
 <sub>This list updates itself. So does the rest of the work.</sub>

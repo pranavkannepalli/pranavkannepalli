@@ -42,11 +42,11 @@ Older builds, back when every line was hand-written. Kept public on purpose.
 ### Recently
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [archductor v0.4.1](https://github.com/perceo-ai/conductor-arch/releases/tag/v0.4.1) in [perceo-ai/conductor-arch](https://github.com/perceo-ai/conductor-arch)
-2. 🎉 Merged PR [#97](https://github.com/perceo-ai/conductor-arch/pull/97) in [perceo-ai/conductor-arch](https://github.com/perceo-ai/conductor-arch)
-3. 🗣 Commented on [#97](https://github.com/perceo-ai/conductor-arch/pull/97#issuecomment-5321447524) in [perceo-ai/conductor-arch](https://github.com/perceo-ai/conductor-arch)
-4. 🗣 Commented on [#97](https://github.com/perceo-ai/conductor-arch/pull/97#issuecomment-5320611650) in [perceo-ai/conductor-arch](https://github.com/perceo-ai/conductor-arch)
-5. ❌ Closed PR [#98](https://github.com/perceo-ai/conductor-arch/pull/98) in [perceo-ai/conductor-arch](https://github.com/perceo-ai/conductor-arch)
+1. 🎉 Merged PR [#54](https://github.com/perceo-ai/archivum/pull/54) in [perceo-ai/archivum](https://github.com/perceo-ai/archivum)
+2. 🎉 Merged PR [#9](https://github.com/perceo-ai/archfleet/pull/9) in [perceo-ai/archfleet](https://github.com/perceo-ai/archfleet)
+3. 🎉 Merged PR [#100](https://github.com/perceo-ai/conductor-arch/pull/100) in [perceo-ai/conductor-arch](https://github.com/perceo-ai/conductor-arch)
+4. 💪 Opened PR [#54](https://github.com/perceo-ai/archivum/pull/54) in [perceo-ai/archivum](https://github.com/perceo-ai/archivum)
+5. 💪 Opened PR [#9](https://github.com/perceo-ai/archfleet/pull/9) in [perceo-ai/archfleet](https://github.com/perceo-ai/archfleet)
 <!--END_SECTION:activity-->
 
 <sub>This list updates itself. So does the rest of the work.</sub>

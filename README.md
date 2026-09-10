@@ -42,11 +42,11 @@ Older builds, back when every line was hand-written. Kept public on purpose.
 ### Recently
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#59](https://github.com/perceo-ai/archivum/pull/59) in [perceo-ai/archivum](https://github.com/perceo-ai/archivum)
-2. 💪 Opened PR [#59](https://github.com/perceo-ai/archivum/pull/59) in [perceo-ai/archivum](https://github.com/perceo-ai/archivum)
-3. 🚀 Published release [archductor v0.6.0](https://github.com/perceo-ai/conductor-arch/releases/tag/v0.6.0) in [perceo-ai/conductor-arch](https://github.com/perceo-ai/conductor-arch)
-4. 🎉 Merged PR [#118](https://github.com/perceo-ai/conductor-arch/pull/118) in [perceo-ai/conductor-arch](https://github.com/perceo-ai/conductor-arch)
-5. 💪 Opened PR [#118](https://github.com/perceo-ai/conductor-arch/pull/118) in [perceo-ai/conductor-arch](https://github.com/perceo-ai/conductor-arch)
+1. 🎉 Merged PR [#14](https://github.com/hexera-core/hexera-platform/pull/14) in [hexera-core/hexera-platform](https://github.com/hexera-core/hexera-platform)
+2. 🎉 Merged PR [#59](https://github.com/perceo-ai/archivum/pull/59) in [perceo-ai/archivum](https://github.com/perceo-ai/archivum)
+3. 💪 Opened PR [#59](https://github.com/perceo-ai/archivum/pull/59) in [perceo-ai/archivum](https://github.com/perceo-ai/archivum)
+4. 🚀 Published release [archductor v0.6.0](https://github.com/perceo-ai/conductor-arch/releases/tag/v0.6.0) in [perceo-ai/conductor-arch](https://github.com/perceo-ai/conductor-arch)
+5. 🎉 Merged PR [#118](https://github.com/perceo-ai/conductor-arch/pull/118) in [perceo-ai/conductor-arch](https://github.com/perceo-ai/conductor-arch)
 <!--END_SECTION:activity-->
 
 <sub>This list updates itself. So does the rest of the work.</sub>

@@ -42,11 +42,11 @@ Older builds, back when every line was hand-written. Kept public on purpose.
 ### Recently
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#35](https://github.com/hexera-core/hexera-platform/pull/35) in [hexera-core/hexera-platform](https://github.com/hexera-core/hexera-platform)
-2. 💪 Opened PR [#35](https://github.com/hexera-core/hexera-platform/pull/35) in [hexera-core/hexera-platform](https://github.com/hexera-core/hexera-platform)
-3. 🎉 Merged PR [#33](https://github.com/hexera-core/hexera-platform/pull/33) in [hexera-core/hexera-platform](https://github.com/hexera-core/hexera-platform)
-4. 🎉 Merged PR [#31](https://github.com/hexera-core/hexera-platform/pull/31) in [hexera-core/hexera-platform](https://github.com/hexera-core/hexera-platform)
-5. 💪 Opened PR [#33](https://github.com/hexera-core/hexera-platform/pull/33) in [hexera-core/hexera-platform](https://github.com/hexera-core/hexera-platform)
+1. 🗣 Commented on [#61](https://github.com/perceo-ai/archivum/pull/61#issuecomment-5713435502) in [perceo-ai/archivum](https://github.com/perceo-ai/archivum)
+2. 🗣 Commented on [#60](https://github.com/perceo-ai/archivum/pull/60#issuecomment-5711678783) in [perceo-ai/archivum](https://github.com/perceo-ai/archivum)
+3. 💪 Opened PR [#61](https://github.com/perceo-ai/archivum/pull/61) in [perceo-ai/archivum](https://github.com/perceo-ai/archivum)
+4. ❌ Closed PR [#60](https://github.com/perceo-ai/archivum/pull/60) in [perceo-ai/archivum](https://github.com/perceo-ai/archivum)
+5. 💪 Opened PR [#60](https://github.com/perceo-ai/archivum/pull/60) in [perceo-ai/archivum](https://github.com/perceo-ai/archivum)
 <!--END_SECTION:activity-->
 
 <sub>This list updates itself. So does the rest of the work.</sub>

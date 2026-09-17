@@ -42,11 +42,11 @@ Older builds, back when every line was hand-written. Kept public on purpose.
 ### Recently
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#35](https://github.com/hexera-core/hexera-platform/pull/35) in [hexera-core/hexera-platform](https://github.com/hexera-core/hexera-platform)
-2. 🎉 Merged PR [#33](https://github.com/hexera-core/hexera-platform/pull/33) in [hexera-core/hexera-platform](https://github.com/hexera-core/hexera-platform)
-3. 🎉 Merged PR [#31](https://github.com/hexera-core/hexera-platform/pull/31) in [hexera-core/hexera-platform](https://github.com/hexera-core/hexera-platform)
-4. 💪 Opened PR [#33](https://github.com/hexera-core/hexera-platform/pull/33) in [hexera-core/hexera-platform](https://github.com/hexera-core/hexera-platform)
-5. 🎉 Merged PR [#32](https://github.com/hexera-core/hexera-platform/pull/32) in [hexera-core/hexera-platform](https://github.com/hexera-core/hexera-platform)
+1. 🎉 Merged PR [#35](https://github.com/hexera-core/hexera-platform/pull/35) in [hexera-core/hexera-platform](https://github.com/hexera-core/hexera-platform)
+2. 💪 Opened PR [#35](https://github.com/hexera-core/hexera-platform/pull/35) in [hexera-core/hexera-platform](https://github.com/hexera-core/hexera-platform)
+3. 🎉 Merged PR [#33](https://github.com/hexera-core/hexera-platform/pull/33) in [hexera-core/hexera-platform](https://github.com/hexera-core/hexera-platform)
+4. 🎉 Merged PR [#31](https://github.com/hexera-core/hexera-platform/pull/31) in [hexera-core/hexera-platform](https://github.com/hexera-core/hexera-platform)
+5. 💪 Opened PR [#33](https://github.com/hexera-core/hexera-platform/pull/33) in [hexera-core/hexera-platform](https://github.com/hexera-core/hexera-platform)
 <!--END_SECTION:activity-->
 
 <sub>This list updates itself. So does the rest of the work.</sub>

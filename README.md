@@ -42,11 +42,11 @@ Older builds, back when every line was hand-written. Kept public on purpose.
 ### Recently
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/pranavkannepalli/eab-members/pull/6) in [pranavkannepalli/eab-members](https://github.com/pranavkannepalli/eab-members)
-2. 💪 Opened PR [#6](https://github.com/pranavkannepalli/eab-members/pull/6) in [pranavkannepalli/eab-members](https://github.com/pranavkannepalli/eab-members)
-3. 🎉 Merged PR [#4](https://github.com/pranavkannepalli/eab-members/pull/4) in [pranavkannepalli/eab-members](https://github.com/pranavkannepalli/eab-members)
-4. 🎉 Merged PR [#5](https://github.com/pranavkannepalli/eab-members/pull/5) in [pranavkannepalli/eab-members](https://github.com/pranavkannepalli/eab-members)
-5. 💪 Opened PR [#5](https://github.com/pranavkannepalli/eab-members/pull/5) in [pranavkannepalli/eab-members](https://github.com/pranavkannepalli/eab-members)
+1. 🎉 Merged PR [#7](https://github.com/pranavkannepalli/eab-members/pull/7) in [pranavkannepalli/eab-members](https://github.com/pranavkannepalli/eab-members)
+2. 💪 Opened PR [#7](https://github.com/pranavkannepalli/eab-members/pull/7) in [pranavkannepalli/eab-members](https://github.com/pranavkannepalli/eab-members)
+3. 🎉 Merged PR [#156](https://github.com/perceo-ai/conductor-arch/pull/156) in [perceo-ai/conductor-arch](https://github.com/perceo-ai/conductor-arch)
+4. 💪 Opened PR [#156](https://github.com/perceo-ai/conductor-arch/pull/156) in [perceo-ai/conductor-arch](https://github.com/perceo-ai/conductor-arch)
+5. 💪 Opened PR [#201](https://github.com/hexera-core/hexera-platform/pull/201) in [hexera-core/hexera-platform](https://github.com/hexera-core/hexera-platform)
 <!--END_SECTION:activity-->
 
 <sub>This list updates itself. So does the rest of the work.</sub>

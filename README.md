@@ -42,7 +42,7 @@ Older builds, back when every line was hand-written. Kept public on purpose.
 ### Recently
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#537](https://github.com/hexera-core/hexera-platform/pull/537) in [hexera-core/hexera-platform](https://github.com/hexera-core/hexera-platform)
+1. 💪 Opened PR [#540](https://github.com/hexera-core/hexera-platform/pull/540) in [hexera-core/hexera-platform](https://github.com/hexera-core/hexera-platform)
 2. 💪 Opened PR [#281](https://github.com/perceo-ai/conductor-arch/pull/281) in [perceo-ai/conductor-arch](https://github.com/perceo-ai/conductor-arch)
 3. 🎉 Merged PR [#531](https://github.com/hexera-core/hexera-platform/pull/531) in [hexera-core/hexera-platform](https://github.com/hexera-core/hexera-platform)
 4. 🗣 Commented on [#278](https://github.com/perceo-ai/conductor-arch/pull/278#issuecomment-7059770164) in [perceo-ai/conductor-arch](https://github.com/perceo-ai/conductor-arch)
